@@ -6,7 +6,7 @@
 
 <h6 align="center">此项目仅限学习交流！</h6>
 
-## B站功能演示视频：[点击观看视频](https://www.bilibili.com/video/BV1Tq421A72s)
+## B站功能演示视频：<a href="https://www.bilibili.com/video/BV1Tq421A72s" target="_blank">点击观看视频</a>
 
 ### 平台功能：
 
